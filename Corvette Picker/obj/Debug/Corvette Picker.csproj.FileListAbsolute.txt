@@ -1,0 +1,11 @@
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\bin\Debug\Corvette Picker.exe.config
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\bin\Debug\Corvette Picker.exe
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\bin\Debug\Corvette Picker.pdb
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette Picker.csprojAssemblyReference.cache
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette_Picker.Corvette.resources
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette_Picker.Properties.Resources.resources
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette Picker.csproj.GenerateResource.cache
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette Picker.exe
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette Picker.pdb
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette_Picker.trim2info.resources
+C:\Users\Brady Grow\source\repos\Corvette Picker\Corvette Picker\obj\Debug\Corvette_Picker.Trim1InfoForm.resources
